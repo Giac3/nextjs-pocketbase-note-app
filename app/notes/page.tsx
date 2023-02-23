@@ -1,7 +1,7 @@
 import React from 'react'
 import PocketBase from 'pocketbase'
 import Link from 'next/link';
-import CreateNote from './[id]/CreateNote';
+import CreateNote from './CreateNote';
 
 
 export const dynamic = 'auto',
